@@ -1,2 +1,2 @@
-# api-django-ninja
+# REST API Django Ninja
 Learning Django Ninja
